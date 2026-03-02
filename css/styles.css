@@ -532,7 +532,7 @@ width: 264px;
     padding-left: 16px;
 
     font-size: 12px;
-    line-height: 1.5;
+    line-height: 2;
     letter-spacing: 0.04em;
     color: #ffffff;
 
@@ -575,7 +575,7 @@ width: 264px;
 
 .footer-subscribe-btn:hover,
 .footer-subscribe-btn:focus {
-    background-color: #404bbf;
+    background-color: #31d0aa;
 }
 
 .footer-subscribe-icon {
